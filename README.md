@@ -1,22 +1,40 @@
-# Hi, I'm Ritikaa
+# Hi, I'm Ritikaa Tiwari 👋
 
-Cybersecurity Master's Graduate passionate about
-- Network Security
-- Threat Detection
-- Incident Response
-- Vulnerability Assessment
+## Cybersecurity Graduate
 
-## Skills
-- Wireshark
-- Nmap
-- Linux
-- Python
-- SIEM Basics
+Master's in Cybersecurity with hands-on experience in network scanning, Windows security auditing, and security analysis.
 
-## Currently Learning
-- SOC Operations
-- Splunk
-- Threat Hunting
+### Areas of Interest
 
-## Connect
+* Security Operations Center (SOC)
+* Threat Detection
+* Incident Response
+* Vulnerability Assessment
+* Network Security
+
+### Technical Skills
+
+* Nmap
+* Wireshark
+* Linux
+* Windows Security
+* Python
+* Networking
+* SIEM Fundamentals
+
+### Current Learning Goals
+
+* Splunk
+* Threat Hunting
+* Log Analysis
+* Security Monitoring
+
+### Projects
+
+* Network Security Scan
+* Windows Security Audit
+
+### Connect With Me
+
 LinkedIn: https://www.linkedin.com/in/ritikaa-tiwari/
+GitHub: https://github.com/ritikaatiwari
