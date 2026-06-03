@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ritikaa
 
-<!--
-**ritikaatiwari/ritikaatiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Master's Graduate passionate about
+- Network Security
+- Threat Detection
+- Incident Response
+- Vulnerability Assessment
 
-Here are some ideas to get you started:
+## Skills
+- Wireshark
+- Nmap
+- Linux
+- Python
+- SIEM Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- SOC Operations
+- Splunk
+- Threat Hunting
+
+## Connect
+LinkedIn: https://www.linkedin.com/in/ritikaa-tiwari/
